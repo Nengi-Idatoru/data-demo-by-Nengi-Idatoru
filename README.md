@@ -1,26 +1,26 @@
 # Analysis of Uk Accident Data by Nengi Idatoru
-##Introduction
+## Introduction
 
 
-##Objectives
+## Objectives
 
-##Tools
+## Tools
 -Power BI
 -Excel
 
-##Techniques and skills
+## Techniques and skills
 -Data normalization
 -Data transformation with power Query
 -Data visualization
 
 
-##Data source
+## Data source
 
 
-##Data model
+## Data model
 
 
-##Dashboard insights
+## Dashboard insights
 ##overview
 ##Recommendations
 ##Download
